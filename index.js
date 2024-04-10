@@ -74,6 +74,11 @@ function newEngineer(data) {
             type: 'input',
             message: 'What is the engineers email?',
             name: 'email'
+        },
+        {
+            type: 'input',
+            message: 'What is the engineers GitHub username?',
+            name: 'github'
         }
     ])
         .then((response) => {
