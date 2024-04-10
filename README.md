@@ -5,8 +5,8 @@ This application was created for building a team by entering the name of the man
 Use 'npm i' to install application using the inquirere and sql dependencies. After installing run 'node index.js' or 'node' in the terminal, after answering the prompts the file will be generated.
 
 ## Links
-GitHub Repo:
-Video:
+GitHub Repo: https://github.com/leadencat/EmployeeTracker 
+Video: https://drive.google.com/file/d/1tZ7tcsPmKaofZzWNN-_1Bj8_dkod-KOS/view 
 
 ## License
 MIT License
